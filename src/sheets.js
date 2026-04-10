@@ -2,7 +2,7 @@
 // sheets.js — StockTrack v2
 // ⚠️  แก้แค่บรรทัดนี้หลัง Deploy Apps Script ใหม่
 // ─────────────────────────────────────────────────────
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw-RAw5nEKcO8EH4KeeMHdLRTwsw6SILhbCgxmXL7yViz3dJDrWsIMOBJPvfEtBn-nr/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwt8qtH9iuH7uZxfdovzKgtcTY7XQtljPk2fkD3Tcgj4M1vdIjSc8JCDoSkDHZ2hdpd/exec";
 
 const toDateStr = (d) => d ? String(d).substring(0, 10) : "";
 
